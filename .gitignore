@@ -13,3 +13,11 @@ results
 
 node_modules
 npm-debug.log
+.idea
+.idea/*
+/.idea/encodings.xml
+/.idea/eve.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/scopes/scope_settings.xml
+/.idea/vcs.xml

@@ -1,0 +1,11 @@
+{
+	"name": "eve",
+	"version": "0.3.4",
+	"description": "Eve events library from Raphael",
+	"main": "eve.js",
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"engine": "node >= 0.4.1"
+}
